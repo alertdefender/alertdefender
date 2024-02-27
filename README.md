@@ -17,6 +17,7 @@ For inquiries or collaborations, feel free to connect via:
 - Email: alertdefender@gmail.com
 - GitHub: [https://github.com/alertdefender](https://github.com/alertdefender)
 - LinkedIn: [https://www.linkedin.com/in/alireza-jangjo/](https://www.linkedin.com/in/alireza-jangjo/)
+- Link tree: [https://linktr.ee/alertdefender](https://linktr.ee/alertdefender)
 
 Let's make the digital world safer! 🌐🛡️
 
