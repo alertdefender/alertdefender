@@ -1,16 +1,15 @@
-### Hi there 👋
+# Ali Reza Jangjo's Skills 🛡️
 
-<!--
-**alertdefender/alertdefender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills 🚀
 
-Here are some ideas to get you started:
+- **Red Team Head**: Leading cyberattack simulations and providing strategic insights.
+- **Android App Pentester**: Identifying vulnerabilities in Android applications.
+- **Bug Hunter**: Discovering and responsibly reporting software vulnerabilities.
+- **Security Researcher**: Conducting research on emerging cyber threats.
+- **Programming**: Proficient in Python, Java script, C/C++, etc.
+- **Network Admin**: Managing and securing network infrastructures.
+- **Web App Pentester**: Assessing security of web applications.
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,py,go,php,js,powershell,git,django,docker,linux,kali)](https://skillicons.dev)
+## Contact 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For inquiries or collaborations, reach out via [email](https://linktr.ee/alertdefender). Let's make the digital world safer! 🌐🛡️
